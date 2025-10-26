@@ -1,0 +1,6 @@
+@RoarIndustriesApi_HostAddress = http://localhost:5259
+
+GET {{RoarIndustriesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

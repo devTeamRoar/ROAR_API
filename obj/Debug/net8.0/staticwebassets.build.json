@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fRzbrCYSFtM3Vm+PYLHAmChqTTMIWTbYMxWiWi1lhsU=",
+  "Source": "RoarIndustriesApi",
+  "BasePath": "_content/RoarIndustriesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

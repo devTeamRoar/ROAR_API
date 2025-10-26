@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RoarIndustriesApi.Controllers.ContactController",
+    "Method": "ContactUs",
+    "RelativePath": "api/Contact/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formData",
+        "Type": "RoarIndustriesApi.Models.ContactFormDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
