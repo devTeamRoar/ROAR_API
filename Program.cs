@@ -16,7 +16,9 @@ builder.Services.AddCors(options =>
                       {
                           // Add the origins your frontend is hosted on
                           policy.WithOrigins("http://localhost:3000",
-                                             "https://roar-industries.vercel.app")
+                                             "https://roar-industries.vercel.app",
+                                             "https://roarindustries.in",
+                                             "https://www.roarindustries.in")
                                 .AllowAnyHeader() // Allows all headers
                                 .AllowAnyMethod(); // Allows all methods (GET, POST, etc.)
                       });
